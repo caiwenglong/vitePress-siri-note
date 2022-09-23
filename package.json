@@ -1,0 +1,20 @@
+{
+  "name": "navigation",
+  "version": "1.0.0",
+  "description": "navigation website",
+  "main": "index.js",
+  "author": "yby",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "@vicons/ionicons5": "^0.12.0",
+    "naive-ui": "^2.33.3",
+    "sass": "^1.55.0",
+    "vitepress": "^1.0.0-alpha.14",
+    "vue": "^3.2.39"
+  }
+}

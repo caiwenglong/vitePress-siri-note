@@ -1,0 +1,32 @@
+{
+    "programming": {
+        "vue": {
+            "admin": [
+                {
+                    "name": "Vue Naive Admin",
+                    "url": "https://template.qszone.com/login?redirect=/workbench",
+                    "icon": "https://camo.githubusercontent.com/f9c05ec27b230d1c638ebe26f56b99af6e544a1b0969de4372446e8c1c2a3879/68747470733a2f2f6173736574732e71737a6f6e652e636f6d2f696d616765732f6c6f676f5f71732e737667",
+                    "describe": "A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant."
+                },
+                {
+                    "name": "Naive Ui Admin",
+                    "url": "https://naive-ui-admin.vercel.app/",
+                    "icon": "https://naive-ui-admin.vercel.app/assets/logo.1ea765ca.png",
+                    "describe": "它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目"
+                },
+                {
+                    "name": "HappyBoot Tiger",
+                    "url": "https://tiger.happykit.org/",
+                    "icon": "https://raw.githubusercontent.com/pumelotea/happyboot-tiger/master/assets/logo.png",
+                    "describe": "A backend management template, base on Vue 3 + Vite 2 + Naive UI."
+                }
+            ],
+            "UI": [
+                {
+                    "name": "NaiveUI",
+                    "url": "https://www.naiveui.com/"
+                }
+            ]
+        }
+    }
+}

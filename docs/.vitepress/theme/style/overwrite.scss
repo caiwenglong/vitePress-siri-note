@@ -1,0 +1,31 @@
+@media (min-width: 960px) {
+    .VPNav {
+        border: 1px solid #f5f5f5;
+    }
+
+    #VPContent {
+        .VPDoc {
+            padding: 12px;
+
+            h2 {
+                border: none;
+                margin-top: 0;
+            }
+        }
+
+        .VPDoc:not(.has-sidebar) {
+            >.container {
+                max-width: 100%;
+
+                >.content {
+                    max-width: calc(100% - 256px);
+                }
+
+            }
+        }
+    }
+
+    #VPContent .VPDoc.has-aside .content-container {
+        max-width: 100%;
+    }
+}
